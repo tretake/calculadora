@@ -2,4 +2,5 @@
 
 aplicativo simples de calculadora
 
-# arquivo alterado
+# tecnicalidade
+compilado usando minGW-w64
